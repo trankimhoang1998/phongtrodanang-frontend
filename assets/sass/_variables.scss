@@ -1,0 +1,47 @@
+$padding: 0.05em;
+//color
+$background: #f1eee7;
+$color-shinseido: #56bdb0;
+$color-kanrisha: #2cabdb;
+$color-trainer: #ef8a94;
+$color-gray-1: #333333;
+$color-gray-2: #757578;
+$color-gray-3: #d8d8db;
+$color-gray-4: #707070;
+$color-gray-5: #e4e7e8;
+$color-gray-6: #f3f4f6;
+$color-gray-7: #c6c6c6;
+$color-gray-8: #d9d9d9;
+$color-red-1: #e43636;
+$color-red-2: #fce9e9;
+$color-red-3: #f00c35;
+$color-white: #fff;
+$color-white-2: #fcfbfa;
+$color-black: #000000;
+$color-black-1: #1a1a1c;
+$color-black-2: #1c1b1f;
+//linear-gradient
+$gradient-180-shinseido: linear-gradient(180deg, #56bdb0 0%, #5bc2da 100%);
+$gradient-180-kanrisha: linear-gradient(180deg, #2cabdb 0%, #8b9bce 100%);
+$gradient-180-trainer: linear-gradient(180deg, #ef8a94 0%, #f6b38e 100%);
+$gradient-90-shinseido: linear-gradient(90deg, #56bdb0 0%, #5bc2da 100%);
+$gradient-90-kanrisha: linear-gradient(90deg, #2cabdb 0%, #8b9bce 100%);
+$gradient-90-trainer: linear-gradient(90deg, #ef8a94 0%, #f6b38e 100%);
+//font
+$font-6: 6px;
+$font-8: 8px;
+$font-10: 10px;
+$font-12: 12px;
+$font-14: 14px;
+$font-16: 16px;
+$font-18: 18px;
+$font-20: 20px;
+$font-22: 22px;
+$font-24: 24px;
+$font-26: 26px;
+$font-30: 30px;
+//screen
+$screen-desktop: 1280px;
+$screen-laptop: 1024px;
+$screen-tablet: 640px;
+$screen-mobile: 425px;
